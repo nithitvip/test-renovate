@@ -269,7 +269,7 @@ express-session@~1.11.3:
     uid-safe "~2.0.0"
     utils-merge "1.0.0"
 
-express@^3.19.2:
+express@^3.21.2:
   version "3.21.2"
   resolved "https://registry.yarnpkg.com/express/-/express-3.21.2.tgz#0c2903ee5c54e63d65a96170764703550665a3de"
   integrity sha512-r3mq2RNCDxAdmZrzEAdjlk5/W7x8+vjU1aAcoAoZFq62KtkWQX+MbaSN4g59CwdUFf9MFf1VSqkZJ+LeR9jmww==
