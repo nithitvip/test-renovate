@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "test-js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,7 @@
   "dependencies": {
     "express": "^4.19.2",
     "sequelize": "^6.37.3",
-    "uuid": "8.3.2"
+    "uuid": "8.3.2",
+    "redis": "~3.0.1"
   }
 }
